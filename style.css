@@ -41,3 +41,7 @@ p {
     text-align: center;
     flex-grow: 1;
   }
+
+ img {
+    margin: 20px;
+ }
